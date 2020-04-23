@@ -1,0 +1,86 @@
+[INFO] 18:52:42:984 logger/(3926:3926): soy un log
+[INFO] 18:53:30:916 logger/(3954:3954): soy un log
+[INFO] 18:56:26:856 logger/(4075:4075): soy un log
+[INFO] 18:58:35:992 logger/(4187:4187): soy un log
+[WARNING] 18:58:35:997 logger/(4187:4187): soy un log de warning
+[INFO] 19:00:11:986 logger/(4238:4238): soy un log
+[WARNING] 19:00:11:987 logger/(4238:4238): soy un log de warning
+[INFO] 19:18:51:366 logger/(4611:4611): soy un log
+[WARNING] 19:18:51:375 logger/(4611:4611): soy un log de warning
+[INFO] 19:20:17:496 logger/(4666:4666): soy un log
+[WARNING] 19:20:17:510 logger/(4666:4666): soy un log de warning
+[INFO] 16:10:36:241 logger/(4470:4470): soy un log
+[WARNING] 16:10:36:242 logger/(4470:4470): soy un log de warning
+[INFO] 17:00:22:990 logger/(6855:6855): soy un log
+[WARNING] 17:00:22:995 logger/(6855:6855): soy un log de warning
+[INFO] 17:03:09:530 logger/(7006:7006): soy un log
+[WARNING] 17:03:09:543 logger/(7006:7006): soy un log de warning
+[INFO] 17:06:52:585 logger/(7295:7295): soy un log
+[WARNING] 17:06:52:586 logger/(7295:7295): soy un log de warning
+[INFO] 17:08:29:29 logger/(7353:7353): soy un log
+[WARNING] 17:08:29:39 logger/(7353:7353): soy un log de warning
+[INFO] 17:10:13:640 logger/(7504:7504): soy un log
+[WARNING] 17:10:13:655 logger/(7504:7504): soy un log de warning
+[INFO] 17:10:44:434 logger/(7542:7542): soy un log
+[WARNING] 17:10:44:435 logger/(7542:7542): soy un log de warning
+[INFO] 17:11:23:989 logger/(7625:7625): soy un log
+[WARNING] 17:11:23:990 logger/(7625:7625): soy un log de warning
+[INFO] 17:11:41:708 logger/(7658:7658): soy un log
+[WARNING] 17:11:41:715 logger/(7658:7658): soy un log de warning
+[INFO] 17:13:56:870 logger/(7737:7737): soy un log
+[WARNING] 17:13:56:871 logger/(7737:7737): soy un log de warning
+[INFO] 17:15:24:896 logger/(7785:7785): soy un log
+[WARNING] 17:15:24:897 logger/(7785:7785): soy un log de warning
+[INFO] 17:15:50:87 logger/(7817:7817): soy un log
+[WARNING] 17:15:50:89 logger/(7817:7817): soy un log de warning
+[INFO] 17:17:12:938 logger/(7890:7890): soy un log
+[WARNING] 17:17:12:938 logger/(7890:7890): soy un log de warning
+[INFO] 17:17:17:613 logger/(7910:7910): soy un log
+[WARNING] 17:17:17:614 logger/(7910:7910): soy un log de warning
+[INFO] 17:17:30:457 logger/(7937:7937): soy un log
+[WARNING] 17:17:30:459 logger/(7937:7937): soy un log de warning
+[INFO] 17:19:39:717 logger/(8023:8023): soy un log
+[WARNING] 17:19:39:721 logger/(8023:8023): soy un log de warning
+[INFO] 17:19:50:993 logger/(8052:8052): soy un log
+[WARNING] 17:19:50:994 logger/(8052:8052): soy un log de warning
+[INFO] 17:20:15:39 logger/(8084:8084): soy un log
+[WARNING] 17:20:15:43 logger/(8084:8084): soy un log de warning
+[INFO] 17:20:26:231 logger/(8114:8114): soy un log
+[WARNING] 17:20:26:237 logger/(8114:8114): soy un log de warning
+[INFO] 17:21:27:126 logger/(8172:8172): soy un log
+[WARNING] 17:21:27:129 logger/(8172:8172): soy un log de warning
+[INFO] 20:34:09:25 logger/(4831:4831): soy un log
+[WARNING] 20:34:09:32 logger/(4831:4831): soy un log de warning
+[INFO] 20:34:09:32 logger/(4831:4831): Ley la IP 127.0.0.1 y puerto (null)
+
+[INFO] 20:35:46:156 logger/(4940:4940): soy un log
+[INFO] 20:35:46:161 logger/(4940:4940): Leí la IP 127.0.0.1 y puerto 4444
+
+[INFO] 21:19:26:308 logger/(7226:7226): soy un log
+[INFO] 21:19:26:308 logger/(7226:7226): Leí la IP 127.0.0.1 y puerto 4444
+
+[INFO] 21:22:15:943 logger/(7576:7576): soy un log
+[INFO] 21:22:15:951 logger/(7576:7576): Leí la IP 127.0.0.1 y puerto 4444
+
+[INFO] 21:24:24:903 logger/(7658:7658): soy un log
+[INFO] 21:24:24:903 logger/(7658:7658): Leí la IP 127.0.0.1 y puerto 4444
+
+[INFO] 21:27:36:747 logger/(7737:7737): soy un log
+[INFO] 21:27:36:747 logger/(7737:7737): Leí la IP 127.0.0.1 y puerto 4444
+
+[INFO] 21:28:39:709 logger/(7946:7946): soy un log
+[INFO] 21:28:39:711 logger/(7946:7946): Leí la IP 127.0.0.1 y puerto 4444
+
+[INFO] 21:33:31:892 logger/(8041:8041): soy un log
+[INFO] 21:33:31:895 logger/(8041:8041): Leí la IP 127.0.0.1 y puerto 4444
+
+[INFO] 21:42:03:334 logger/(8446:8446): soy un log
+[INFO] 21:42:03:337 logger/(8446:8446): Leí la IP 127.0.0.1 y puerto 4444
+
+[INFO] 21:42:03:339 logger/(8446:8446): El mensaje recibido es: The cake is a lie
+
+[INFO] 16:51:59:354 logger/(7303:7303): soy un log
+[INFO] 16:51:59:367 logger/(7303:7303): Leí la IP 127.0.0.1 y puerto 4444
+
+[INFO] 16:51:59:369 logger/(7303:7303): El mensaje recibido es: The cake is a lie
+
